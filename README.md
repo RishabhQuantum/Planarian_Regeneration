@@ -3,5 +3,5 @@
 
 Mathematica, Version 13.1 (2023) was used to write the code.
 
-The mathematica notebook contains the code to reproduce Fig.3-5 of the manuscript and Fig.6-17 of the supporting information.
+The mathematica notebooks contains the code to reproduce Fig.3-5 of the manuscript and Fig.6-17 of the supporting information.
 
